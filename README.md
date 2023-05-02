@@ -112,12 +112,3 @@ type Character = {
 - Testing is very important for us, so your contract should be fully tested
 - The devil is the details, double-check your work before submitting it!
 
-## Restitution
-
-Please document your code or modify this `README.md` file to describe your choices, practices, etc. <br/>
-Share your code with us using a **private** repository on [GitHub](https://github.com/) and inviting [@qd-qd](https://github.com/qd-qd).
-
----
-
-**Thank you for your time and good luck! 🍀** <br/>
-**Powered by [Ledger](https://www.ledger.com/)**
